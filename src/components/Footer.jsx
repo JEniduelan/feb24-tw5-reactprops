@@ -2,7 +2,7 @@
 export default function Footer() {
     return(
         <footer>
-            <p>Coder Academy 2024.</p>
+            <h6>Coder Academy 2024.</h6>
         </footer>
     )
 }
